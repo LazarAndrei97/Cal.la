@@ -9,9 +9,8 @@
 #ifndef GENERAL_H
 #define	GENERAL_H
 
-//In MPLab8 change to 
-//#include <p33Fxxxx>
-#include <xc.h>
+
+#include <p33Fxxxx.h>
 #include "general_types.h"
 #include "mcal_gpio.h"
 
